@@ -14,7 +14,7 @@
         "irc": "irc://irc.freenode.org/amphp"
     },
     "require": {
-        "phpunit/phpunit": "^6"
+        "phpunit/phpunit": "^7"
     },
     "require-dev": {
         "amphp/amp": "^2"
